@@ -1,6 +1,6 @@
 # 🚀 Çok Yönlü Endüstriyel STM32 Geliştirme Kartı
 
-Bu proje; endüstriyel otomasyon, Ar-Ge projeleri, otonom sistemler ve hassas motor kontrolü uygulamalarında kullanılmak üzere, farklı sektörlerin ihtiyaçlarına cevap verebilecek esneklikte ve çok yönlü olarak tasarlanmış **4-Katmanlı (4-Layer) özel bir donanım mimarisidir.**
+Bu geliştirme kartı; endüstriyel otomasyon, Ar-Ge projeleri, otonom sistemler ve hassas motor kontrolü uygulamalarında kullanılmak üzere, farklı sektörlerin ihtiyaçlarına cevap verebilecek esneklikte ve çok yönlü olarak tasarlanmıştır.
 
 Tasarım süreci **Altium Designer** ortamında endüstriyel standartlara uygun olarak gerçekleştirilmiş olup; güç bütünlüğü, haberleşme güvenilirliği ve elektriksel koruma önlemleri dikkate alınmıştır.
 
